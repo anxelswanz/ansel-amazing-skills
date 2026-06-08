@@ -47,6 +47,9 @@ understanding of it, not to test fragments of memory.
    professional tones, and similar lengths, eliminating guessing based on formatting.
 3. **Core Focus:** Never ask superficial trivia, word-filling, or nitpicking questions.
    Target the core problems and vital mechanisms the document is solving.
+4. **Answer-position spread:** Randomize which letter holds the correct answer; never
+   let the correct option default to A. Across a set, the correct letters should be
+   roughly evenly spread over A/B/C/D rather than clustering on any single position.
 
 ---
 
@@ -111,6 +114,9 @@ For each question's distractors, you should be able to state which of these meth
    none can be eliminated by formatting.
 5. **Single-answer check:** Confirm only one option is definitively correct and the other
    three can each be judged wrong by the document's logic.
+6. **Position-shuffle check:** Before finalizing, review the answer key as a whole and
+   reshuffle option order so the correct letters are spread across A/B/C/D — if they have
+   clustered on one letter (e.g. all A), reassign positions until balanced.
 
 ---
 
